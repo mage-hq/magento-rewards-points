@@ -1,5 +1,5 @@
 # magento-rewards-points
-The Magento 2 Rewards Points extension builds an automatic system of earning and spending points, rewarding points for customer actions such as Registering on the website, Buying products, liking, sharing products, etc...
+With Magento 2 Rewards Points extension, you can establish an automatic system of earning and spending points, rewarding points for customer actions
 
 Please go to https://magehq.com/rewards-points.html buy extension
 
